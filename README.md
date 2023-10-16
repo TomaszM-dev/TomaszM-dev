@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tomasz Malocha</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
-<img  align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
+
+<img  align="right" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
 
 - 🌱 I’m currently learning **Node.js, openAi API**
 
