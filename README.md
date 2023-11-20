@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Node.js, openAi API**
+- 🌱 I’m currently learning Java, openAi API**
 
 - 👯 I’m looking to collaborate on **full stack projects**
 
