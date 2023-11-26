@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomasz Malocha</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<h3 align="center">A passionate software developer from Poland</h3>
 
 
 
@@ -8,8 +8,6 @@
 - 👯 I’m looking to collaborate on **full stack projects**
 
 - 👨‍💻 All of my projects are available at [https://tm-dev.vercel.app/](https://tm-dev.vercel.app/)
-
-- 💬 Ask me about **Next.js, NextAuth, Prisma**
 
 - 📫 How to reach me **tomekmalocha@gmail.com**
 
