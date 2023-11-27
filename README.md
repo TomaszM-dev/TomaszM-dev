@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomasz Malocha</h1>
-<h3 align="center">A passionate software developer from Poland</h3>
+<h3 align="center">A software developer from Poland</h3>
 
 
 
