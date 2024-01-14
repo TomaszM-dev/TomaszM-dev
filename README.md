@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning Java, Node.js **
+- 🌱 I’m currently learning Nest.js, new features of Next 14
 
 - 👯 I’m looking to collaborate on **full stack projects**
 
