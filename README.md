@@ -1,17 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tomasz Malocha</h1>
 <h3 align="center">A software developer from Poland</h3>
 
-
-
-- 🌱 I’m currently learning Nest.js, new features of Next 14
-
-- 👯 I’m looking to collaborate on **full stack projects**
-
 - 👨‍💻 All of my projects are available at [https://tm-dev.vercel.app/](https://tm-dev.vercel.app/)
 
 - 📫 How to reach me **tomekmalocha@gmail.com**
-
-- ⚡ Fun fact **Pizza with ananas actually tastes good**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
