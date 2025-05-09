@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **tomekmalocha@gmail.com**
 
-- 📄 Know about my experiences [https://tm-dev.vercel.app/TMalochaCV.pdf](https://tm-dev.vercel.app/TMalochaCV.pdf)
-
 - ⚡ Fun fact **Pizza with ananas actually tastes good**
 
 <h3 align="left">Connect with me:</h3>
